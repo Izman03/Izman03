@@ -4,14 +4,6 @@
 - 🔭 I’m currently working on **push_swap**
 - 🌱 I’m currently learning **JavaScript & Python**
 
----
-
-### Projects
-
-<!-- Add your projects here -->
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">

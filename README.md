@@ -1,9 +1,6 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Izmael Holmes</h1>
 <h3 align="center">A passionate Junior Software Developer</h3>
 <img align= "right" alt="Coding" width="400" src"https://gifer.com/en/7qLf">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izman03&label=Profile%20views&color=0e75b6&style=flat" alt="izman03" /> </p>
 
 - 🔭 I’m currently working on **push_swap**
 

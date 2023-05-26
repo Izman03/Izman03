@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning **JavaScript & Python**
 
+
+- Projects
+
 <p align="left">
 </p>
 

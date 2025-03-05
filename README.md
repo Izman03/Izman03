@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Izmael Holmes</h1>
+
 <h2 align="center">Junior Software Developer | Tech Enthusiast</h2>
 
 <p align="center">
